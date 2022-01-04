@@ -1,2 +1,2 @@
-# SMU_EmotionEng.
+# SMU_Emotion Eng.
 ## 상명대학교 감성공학과 석사 과정 2022.01.03 ~
